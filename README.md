@@ -10,7 +10,7 @@ This Python script implements a transport management system that efficiently han
 - **BinarySearchTree Class:** Implements a binary search tree data structure with methods for finding minimum and maximum value nodes, searching for nodes with specific keys, and finding successors and predecessors.</br>
 - **Location Class:** Represents a location with attributes for location name, associated transport services, and trips. It includes methods for accessing and modifying location details.</br>
 - **TravelDesk Class:** Orchestrates the transport management system by managing vehicles, locations, and trips. It includes methods for adding trips, booking trips, and querying available trips.</br>
-- **File Input:** The script reads commands from an input file (iteration.txt) to add trips, show trips by destination, and book trips.</br>
+- **File Input:** The script reads commands from an input file (iteration.txt) to add trips, show trips by destination, and book trips.
 
 ## **How to Use:**
 - Ensure you have Python installed on your system.</br>
